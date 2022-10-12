@@ -1,0 +1,9 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(§®çúÿÿÿÿ
+C
+java:S4925%"-Remove this "Class.forName()", it is useless.(›‡ªœ
+?
+java:S2115&")Add password protection to this database.(¬ŒÈ­
+‘
+java:S1130D"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(Ü†ÿÿıÿÿÿÿ
